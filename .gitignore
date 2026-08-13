@@ -1,0 +1,15 @@
+# Personal knowledge-base material
+.obsidian/
+_attachments/
+*.pem
+*.key
+*.pfx
+*.env
+.env.*
+oauth*.json
+*token*.json
+
+# Editor and operating system files
+.DS_Store
+.idea/
+.vscode/
